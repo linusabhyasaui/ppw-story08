@@ -1,0 +1,16 @@
+{% extends 'story_8/base.html' %}
+
+{% block content %}
+    <h1>Find your book</h1>
+
+    <div>
+        <form id="search-form">
+            <input type="text" id="search-url"/>
+            <input class="btn" type="submit" value="Submit"/>
+        </form>
+
+        <p id="result"></p>
+        <div id="books"></div>
+    </div>
+
+{% endblock %}
