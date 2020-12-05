@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c024ee18-6495-4508-ac74-91be77aeeb8f" name="Default Changelist" comment="" />
+    <list default="true" id="c024ee18-6495-4508-ac74-91be77aeeb8f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
       <workItem from="1606972902594" duration="83000" />
       <workItem from="1606993144275" duration="2063000" />
       <workItem from="1607157557554" duration="3085000" />
-      <workItem from="1607170124506" duration="1936000" />
+      <workItem from="1607170124506" duration="2585000" />
     </task>
     <task id="LOCAL-00001" summary="broken build">
       <created>1607170171686</created>
