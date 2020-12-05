@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c024ee18-6495-4508-ac74-91be77aeeb8f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="c024ee18-6495-4508-ac74-91be77aeeb8f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +34,31 @@
       <recent name="C:\Users\Linus\Desktop\Files\Seafile\My Library\Uni-UI\WebPPW\Stories\ppw-story08\app1\templates" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="ppw-story08" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ppw-story08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +70,7 @@
       <workItem from="1606972902594" duration="83000" />
       <workItem from="1606993144275" duration="2063000" />
       <workItem from="1607157557554" duration="3085000" />
-      <workItem from="1607170124506" duration="2585000" />
+      <workItem from="1607170124506" duration="2948000" />
     </task>
     <task id="LOCAL-00001" summary="broken build">
       <created>1607170171686</created>
@@ -56,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607170171686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="unknown error fix attempt">
+      <created>1607172865416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607172865416</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,13 +94,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="broken build" />
-    <option name="LAST_COMMIT_MESSAGE" value="broken build" />
+    <MESSAGE value="unknown error fix attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="unknown error fix attempt" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2095" y="96" key="CommitChangelistDialog2" timestamp="1607170167749">
+    <state x="2095" y="96" key="CommitChangelistDialog2" timestamp="1607172863884">
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
-    <state x="2095" y="96" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1607170167749" />
+    <state x="2095" y="96" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1607172863884" />
+    <state x="2152" y="251" key="Vcs.Push.Dialog.v2" timestamp="1607172867986">
+      <screen x="1600" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2152" y="251" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1607172867986" />
   </component>
 </project>
