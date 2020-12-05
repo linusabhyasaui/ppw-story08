@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class Story8Config(AppConfig):
-    name = 'story_8'
+class App1Config(AppConfig):
+    name = 'app1'

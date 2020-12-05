@@ -7,15 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap"
           rel="stylesheet"/>
-    <link rel="stylesheet" href="{% static 'story_8/style.css' %}"/>
+    <link rel="stylesheet" href="{% static 'style.css' %}"/>
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script src="{% static 'story_8/script.js' %}" defer></script>
-    <link rel="stylesheet" href="{% static 'home/nav.css' %}"/>
+    <script src="{% static 'script.js' %}" defer></script>
     <title>{{ page_title }}</title>
 </head>
 
 <body>
-{% include "home/nav.html" %}
 <div class="content">
     {% block content %}
     {% endblock %}

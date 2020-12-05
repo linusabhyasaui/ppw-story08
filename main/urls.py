@@ -2,8 +2,6 @@ from django.urls import path, include
 
 from django.contrib import admin
 
-import app1
-import app0.views
 
 admin.autodiscover()
 # To add a new path, first import the app:
@@ -15,7 +13,5 @@ admin.autodiscover()
 # Learn more here: https://docs.djangoproject.com/en/2.1/topics/http/urls/
 
 urlpatterns = [
-    path("", include(app1), name="index"),
-    path("db/", app0.views.db, name="db"),
-    path("admin/", admin.site.urls),
+    path("", include("app1.urls"), name="index")
 ]
